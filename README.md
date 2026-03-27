@@ -1,21 +1,3 @@
-Eric
-eric15__
-Em uma chamada
-
-XxKaiotorresX2 — 13:47
-Imagem
-XxKaiotorresX2
- iniciou uma chamada. — 13:50
-XxKaiotorresX2 — 14:07
-https://hub.docker.com/r/apidesktop/app#dоwnlоad-dоcker-desktоp
-Eric — 14:10
-https://www.youtube.com/watch?v=rkYTCjhtRy0
-YouTube
-Guilherme Galanti
-Ranking REAL das melhores carreiras em TI (muita gente vai discordar)
-Imagem
-XxKaiotorresX2 — 14:15
-
 <img src="My-Ilustration.png">
 <p align="center">I ❤️  challenges . <br><br> future fullstack developer, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <strong>focused on web development.</strong> </p>&nbsp;
 
@@ -48,7 +30,6 @@ message.txt
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
@@ -70,8 +51,6 @@ message.txt
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
