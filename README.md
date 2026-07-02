@@ -1,13 +1,14 @@
 # Hi 👋! My name is Eric and I'm a Systems Analysis and Development student, full-stack developer with a focus on Backend.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eric-tech-devops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-tech-devops&layout=compact&theme=dracula" alt="Most Used Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eric-devops-tech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-devops-tech&layout=compact&theme=dracula" alt="Most Used Languages" height="180px" />
 </div>
 
 <br/>
 
 <div align="left">
+  <!-- Tecnologias & Ferramentas -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
@@ -31,7 +32,7 @@
 
 ## 🐍 GitHub Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eric-tech-devops/eric-tech-devops/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eric-tech-devops/eric-tech-devops/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/eric-tech-devops/eric-tech-devops/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eric-devops-tech/Eric-devops-tech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eric-devops-tech/Eric-devops-tech/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Eric-devops-tech/Eric-devops-tech/output/github-contribution-grid-snake.svg">
 </picture>
