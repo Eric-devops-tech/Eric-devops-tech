@@ -6,14 +6,22 @@
   I'm a Systems Analysis and Development student, passionate about building efficient, scalable and well-structured software solutions.
 </p>
 
+---
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eric-devops-tech&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Eric's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-devops-tech&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eric-devops-tech&theme=radical" alt="Eric's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eric-devops-tech&theme=radical" alt="Most used languages by repository" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eric-devops-tech&theme=radical" alt="Most used languages by commit" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Eric-devops-tech&theme=radical&hide_border=false" alt="GitHub streak" />
 </div>
+
+---
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
@@ -67,6 +75,7 @@
   <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" alt="Vercel" />
 </div>
 
+<br />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" alt="Clean Architecture" />
@@ -76,6 +85,8 @@
   <img src="https://img.shields.io/badge/Scrum-222222?style=for-the-badge" alt="Scrum" />
   <img src="https://img.shields.io/badge/GitFlow-222222?style=for-the-badge" alt="GitFlow" />
 </p>
+
+---
 
 <h2 align="left">📫 Contact</h2>
 
@@ -88,10 +99,8 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eric-devops-tech&theme=redical&hide_border=false&area=true" alt="Contribution activity graph" />
-</div>
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eric-devops-tech/Eric-devops-tech/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eric-devops-tech&theme=react-dark&hide_border=false&area=true" alt="Contribution activity graph" />
 </div>
